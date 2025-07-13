@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi-k-tech" alt="abhi-k-tech" /></a> </p>
 
-- 🔭 I’m currently pursing **Btech-cse**
+- 🔭 I’m currently pursing **Btech in CSE from GNIT,westbengal**
 
 - 🌱 I’m currently learning **Html,css**
 
